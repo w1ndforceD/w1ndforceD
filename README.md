@@ -9,7 +9,7 @@ Interested in practical software, databases, and real-world applications.
 
 * 🌍  I'm based in Serbia
 * ✉️  You can contact me at [djelic.mita1@gmail.com](mailto:djelic.mita1@gmail.com)
-* 🧠  I'm currently learning Android (Kotlin), Firebase, SQL, backend fundamentals
+* 🧠  I'm currently learning Android (Kotlin), Firebase, SQL, and backend fundamentals
 * 👥  I'm looking to collaborate on Android apps, student projects, and practical software ideas
 
 
