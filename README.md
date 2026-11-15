@@ -36,6 +36,6 @@ Focused on **Android development**, **backend systems**, and building practical,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1ndforceD&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=w1ndforceD&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
