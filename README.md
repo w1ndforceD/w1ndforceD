@@ -35,5 +35,7 @@ Focused on **Android development**, **backend systems**, and building practical,
 ---
 
 <div align="center">
+  
   <img src="./languages.svg" alt="Most Used Languages" />
+
 </div>
