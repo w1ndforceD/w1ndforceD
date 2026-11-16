@@ -36,6 +36,6 @@ Focused on **Android development**, **backend systems**, and building practical,
 
 <div align="center">
   
-  <img src="./languages.svg" alt="Most Used Languages" />
+ <img src="./languages.svg?v=2" alt="Most Used Languages" />
 
 </div>
