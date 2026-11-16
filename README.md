@@ -35,7 +35,5 @@ Focused on **Android development**, **backend systems**, and building practical,
 ---
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=w1ndforceD&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
+  <img src="./languages.svg" alt="Most Used Languages" />
 </div>
